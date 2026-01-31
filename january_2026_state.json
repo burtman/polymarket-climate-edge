@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-01-31T14:17:23.926784",
+  "estimated_anomaly": 1.2788888888888872,
+  "uncertainty": 0.3,
+  "our_probabilities": {
+    "temperature": {
+      "<1.00\u00b0C": 0.1672,
+      "1.00-1.04\u00b0C": 0.0478,
+      "1.05-1.09\u00b0C": 0.0524,
+      "1.10-1.14\u00b0C": 0.0566,
+      "1.15-1.19\u00b0C": 0.0636,
+      ">1.19\u00b0C": 0.6124
+    },
+    "ranking": {
+      "1st hottest": 0.3791,
+      "2nd hottest": 0.1697,
+      "3rd hottest": 0.0902,
+      "4th or lower": 0.361
+    }
+  },
+  "market_odds": {
+    "temperature": {
+      "<1.00\u00b0C": 0.013,
+      "1.00-1.04\u00b0C": 0.032,
+      "1.05-1.09\u00b0C": 0.51,
+      "1.10-1.14\u00b0C": 0.4,
+      "1.15-1.19\u00b0C": 0.05,
+      ">1.19\u00b0C": 0.0135
+    },
+    "ranking": {
+      "1st hottest": 0.0055,
+      "2nd hottest": 0.005,
+      "3rd hottest": 0.011,
+      "4th or lower": 0.9785
+    }
+  }
+}
