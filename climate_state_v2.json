@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-01-31T09:58:32.820360+00:00",
+  "enso": {
+    "state": "la_nina",
+    "oni": -0.51,
+    "period": "SON_2025",
+    "impact": -0.0408,
+    "description": "La Nina (ONI: -0.51)"
+  },
+  "progress": {
+    "days_so_far": 25,
+    "latest_temp": 12.783,
+    "mean_2026_ytd": 12.93936,
+    "baseline_mean": 12.430697333333333,
+    "raw_anomaly": 0.5086626666666678,
+    "enso_impact": -0.0408,
+    "enso_adjusted_anomaly": 0.5494626666666678,
+    "trend_expectation": 0.52,
+    "comparisons": {
+      "2024": {
+        "mean": 13.09056,
+        "diff_vs_2026": -0.15119999999999933
+      },
+      "2023": {
+        "mean": 12.67084,
+        "diff_vs_2026": 0.26852000000000054
+      },
+      "2022": {
+        "mean": 12.73284,
+        "diff_vs_2026": 0.20652000000000115
+      },
+      "2021": {
+        "mean": 12.69544,
+        "diff_vs_2026": 0.24392000000000102
+      },
+      "2020": {
+        "mean": 13.0082,
+        "diff_vs_2026": -0.06883999999999979
+      }
+    },
+    "historical_variability": {
+      "std": 0.1410468844591199,
+      "mean_drift": 0.025226940639268846,
+      "samples": 10
+    },
+    "data_lag_days": 6
+  },
+  "mc_probs": {
+    "1": 0.2026,
+    "2": 0.785,
+    "3": 0.0114,
+    "4": 0.001,
+    "5": 0.0,
+    "6": 0.0
+  },
+  "edges": [
+    {
+      "rank": 2,
+      "question": "Will 2026 be the second-hottest year on record?",
+      "market_prob": 27.0,
+      "our_prob": 78.5,
+      "edge": 51.5,
+      "direction": "BUY YES",
+      "confidence": "HIGH",
+      "volume": 114179.795229,
+      "url": "https://polymarket.com/event/will-2026-be-the-second-hottest-year-on-record"
+    },
+    {
+      "rank": 1,
+      "question": "Will 2026 be the fourth-hottest year on record?",
+      "market_prob": 41.5,
+      "our_prob": 20.26,
+      "edge": -21.24,
+      "direction": "BUY NO",
+      "confidence": "HIGH",
+      "volume": 105929.151736,
+      "url": "https://polymarket.com/event/will-2026-be-the-fourth-hottest-year-on-record"
+    },
+    {
+      "rank": 1,
+      "question": "Will 2026 rank as the sixth-hottest year on record or lower?",
+      "market_prob": 5.050000000000001,
+      "our_prob": 20.26,
+      "edge": 15.21,
+      "direction": "BUY YES",
+      "confidence": "HIGH",
+      "volume": 184764.917379,
+      "url": "https://polymarket.com/event/will-2026-rank-as-the-sixth-hottest-year-on-record-or-lower"
+    },
+    {
+      "rank": 1,
+      "question": "Will 2026 be the fifth-hottest year on record?",
+      "market_prob": 5.1,
+      "our_prob": 20.26,
+      "edge": 15.160000000000002,
+      "direction": "BUY YES",
+      "confidence": "HIGH",
+      "volume": 511317.667646,
+      "url": "https://polymarket.com/event/will-2026-be-the-fifth-hottest-year-on-record"
+    },
+    {
+      "rank": 1,
+      "question": "Will 2026 be the hottest year on record?",
+      "market_prob": 13.0,
+      "our_prob": 20.26,
+      "edge": 7.26,
+      "direction": "BUY YES",
+      "confidence": "LOW",
+      "volume": 126859.400749,
+      "url": "https://polymarket.com/event/will-2026-be-the-hottest-year-on-record"
+    },
+    {
+      "rank": 3,
+      "question": "Will 2026 be the third-hottest year on record?",
+      "market_prob": 7.8,
+      "our_prob": 1.1400000000000001,
+      "edge": -6.659999999999999,
+      "direction": "BUY NO",
+      "confidence": "LOW",
+      "volume": 93206.588229,
+      "url": "https://polymarket.com/event/will-2026-be-the-third-hottest-year-on-record"
+    }
+  ]
+}
