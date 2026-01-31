@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+
+# Data cache
+*.nc
+*.grib
+cache/
+
+# Credentials
+.cdsapirc
+*.key
+
+# IDE
+.vscode/
+.idea/
